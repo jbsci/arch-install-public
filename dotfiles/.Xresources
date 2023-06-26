@@ -1,0 +1,21 @@
+rofi.color-enabled: true
+#rofi.font:Fantasque\ Sans\ Mono 20
+#rofi.font:RobotoMono\ Nerd\ Font 20
+rofi.font:Source\ Code\ Pro 20
+!                  bg       border   separator
+#rofi.color-window: argb:EE282828, #242424, #282828
+rofi.color-window: argb:EE282828, #6d938f, #6d938f
+rofi.fullscreen: true
+rofi.lines: 5
+rofi.bw: 0
+rofi.eh: 2
+rofi.padding: 300
+rofi.separator-style: none
+rofi.separator: none 
+rofi.hide-scrollbar: true
+
+!                  bg       fg       bg-alt   hl-bg    hl-fg
+rofi.color-normal: argb:00282828, #458588, argb:00282828, #458588, #282828
+rofi.color-active: argb:00282828, #fabd2f, argb:00282828, #fabd2f, #282828
+rofi.color-urgent: argb:00282828, #cc241d, argb:00282828, #cc241d, #282828
+
